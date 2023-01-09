@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PocoToCsla": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\enejs\\Repositories\\IPSDiva\\IPSDiva.Dal\\Models\\DIAddress.cs\r\nfile"
+    }
+  }
+}
